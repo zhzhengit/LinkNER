@@ -22,7 +22,7 @@ Run the following command to install the required dependencies:
 pip install -r requirement.txt
 ```
 
-#🚀 Quick Start
+🚀# Quick Start
 We offer the following scripts to facilitate training and inference. The parameters that need to be modified are represented as placeholders in the scripts.
 
 ## Step 1: Train Local Models
@@ -72,7 +72,7 @@ For Llama 3, we utilize [Llama-3-8b-it](https://huggingface.co/meta-llama/Meta-L
 
 For Qwen 2.5, we utilize [Qwen/Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct).
 
-#🌟 Acknowledgement
+🌟# Acknowledgement
 
 ```bigquery
 @inproceedings{10.1145/3589334.3645414,
