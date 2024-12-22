@@ -1,5 +1,5 @@
 <div align="center">
-<img src="IMG/model.png" width="55%">
+<img src="IMG/model.png" width="88%">
 </div>
 
 # LinkNER: Linking Local Named Entity Recognition Models to Large Language Models using Uncertainty
