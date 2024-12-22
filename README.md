@@ -74,6 +74,8 @@ For Qwen 2.5, we utilize [Qwen/Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/
 
 # 🌟 Acknowledgement
 
+When citing our work, please kindly consider citing the original papers. The relevant citation information is listed here.
+
 ```bigquery
 @inproceedings{10.1145/3589334.3645414,
 author = {Zhang, Zhen and Zhao, Yuhua and Gao, Hang and Hu, Mengting},
@@ -94,4 +96,3 @@ series = {WWW '24}
 }
 ```
 
-When citing our work, please kindly consider citing the original papers. The relevant citation information is listed here.
