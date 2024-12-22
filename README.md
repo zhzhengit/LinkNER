@@ -71,3 +71,27 @@ We use the OpenAI API, specifically [gpt-3.5-turbo](https://platform.openai.com/
 For Llama 3, we utilize [Llama-3-8b-it](https://huggingface.co/meta-llama/Meta-Llama-3-8B/tree/main).
 
 For Qwen 2.5, we utilize [Qwen/Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct).
+
+## Citation
+
+```bigquery
+@inproceedings{10.1145/3589334.3645414,
+author = {Zhang, Zhen and Zhao, Yuhua and Gao, Hang and Hu, Mengting},
+title = {LinkNER: Linking Local Named Entity Recognition Models to Large Language Models using Uncertainty},
+year = {2024},
+isbn = {9798400701719},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3589334.3645414},
+doi = {10.1145/3589334.3645414},
+abstract = {},
+booktitle = {Proceedings of the ACM Web Conference 2024},
+pages = {4047–4058},
+numpages = {12},
+keywords = {information extraction, large language models, robustness, uncertainty estimation},
+location = {Singapore, Singapore},
+series = {WWW '24}
+}
+```
+
+When citing our work, please kindly consider citing the original papers. The relevant citation information is listed here.
