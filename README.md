@@ -1,6 +1,7 @@
 <div align="center">
 <img src="IMG/model.pdf" width="55%">
 </div>
+
 # LinkNER: Linking Local Named Entity Recognition Models to Large Language Models using Uncertainty
 
 ![](https://img.shields.io/badge/version-1.0.0-blue)[![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white)](https://pytorch.org/)[![arxiv badge](https://img.shields.io/badge/arxiv-2411.02937-red)](https://arxiv.org/abs/2402.10573)
