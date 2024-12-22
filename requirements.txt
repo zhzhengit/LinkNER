@@ -1,0 +1,10 @@
+allennlp==2.9.2
+torch==1.11.0
+pytorch-lightning==0.9.0
+transformers==4.1
+numpy<2.0.0
+scipy
+scikit-learn
+prettytable
+openai
+tensorboard
